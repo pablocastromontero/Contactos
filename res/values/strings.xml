@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Manejo de Contactos</string>
+    <string name="app_name">Contactos</string>
+    <string name="txtBtnAdd">Agregar Contacto</string>
+    <string name="txtCmdCall">Llamar</string>
+    <string name="txtCmdExit">Salir</string>
+    <string name="htnTxtName">Nombre</string>
+    <string name="hntTxtNumber">Teléfono</string>
+    <string name="txtCmdDelete">Eliminar Contacto</string>
+    <string name="miNuevo">Agregar Nuevo</string>
+    <string name="miSearch">Buscar</string>
+    <string name="btnViewCall">Llamar</string>
+    <string name="btnViewDelete">Eliminar</string>
+
+</resources>

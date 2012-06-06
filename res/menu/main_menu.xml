@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/miNuevo" android:title="@string/miNuevo"></item>
+    <item android:id="@+id/miBuscar" android:title="@string/miSearch"></item>
+    
+
+</menu>
